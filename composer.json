@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": ">=7.0",
-    "zfr/zfr-oauth2-server": "dev-master",
+    "zfr/zfr-oauth2-server": "dev-cors",
     "doctrine/orm": "~2.5",
     "container-interop/container-interop": "^1.1"
   },
